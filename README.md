@@ -1,2 +1,11 @@
 # Round Log Extension
-A Google Chrome Browser extension that reminds consultants to insert a round log every 15 minutes.
+by Meesun Park
+
+## Description
+Reminds consultants to input a roundlog every 15 minutes.
+
+## Current progress:
+* Creating the HTML UI.
+
+## To try:
+Still in progress.
