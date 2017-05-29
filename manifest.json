@@ -19,7 +19,7 @@
 	},
 
 	"chrome_url_overrides" : {
-    	"newtab": "https://supportcenter.oit-nbcs.rutgers.edu/content/busch-consultants-staff-page"
+    	"newtab": "newtab.html"
 	}
 
 }
