@@ -20,6 +20,14 @@
 
 	"chrome_url_overrides" : {
     	"newtab": "newtab.html"
-	}
+	},
+
+	"permissions": [
+		"notifications"
+	],
+
+	"web_accessible_resources": [
+		"48x48.png"
+	]
 
 }
