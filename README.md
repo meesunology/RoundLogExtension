@@ -9,6 +9,7 @@ Reminds consultants to input a roundlog every 15 minutes.
 
 ## Coming Soon:
 * Make option to turn off newtab option
+* Add to Consultant Batch File
 
 ## Current Cool Features:
 * Click to open a pop-up that is an embeded Google Form of Round Log
