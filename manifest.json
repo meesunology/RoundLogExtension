@@ -29,10 +29,10 @@
 
 	"web_accessible_resources": [
 		"48x48.png"
-	],
+	]
 
-	/*"options_ui": {
-        "page": "options.html",
-        "chrome_style": true 
-    }*/
+	//"options_ui": {
+    //    "page": "options.html",
+    //    "chrome_style": true 
+    //}
 }
