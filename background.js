@@ -4,7 +4,7 @@ function show() {
         icon: '48.png',
         body: 'Press the extension to open up our round log.'
     })
-    }, 900000);
+    }, 900000); //15 minutes in miliseconds
 
 }
 
