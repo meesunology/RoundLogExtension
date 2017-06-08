@@ -15,6 +15,5 @@ Reminds consultants to input a roundlog every 15 minutes.
 ## To try:
 Download and import to as "Load unpacked extension" in Chrome:\\extensions. Developer Mode must be enabled.
 To install through a batch file, use the following commands:
-* chrome.exe --system-developer-mode
-* START chrome.exe --load-extension = "*insert path file*"
-The first command enables developer mode. The second command loads the extension.
+* chrome.exe --system-developer-mode //enables developer mode
+* START chrome.exe --load-extension = "*insert path file*" //loads the extension
