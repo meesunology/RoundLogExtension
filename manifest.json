@@ -1,6 +1,6 @@
 {
     "name": "RoundLogExtension",
-    "version": "1.1.5",
+    "version": "1.2.0",
     "manifest_version": 2,
     "browser_action": {
     	"default_title": "Round Log Extension",
